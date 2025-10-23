@@ -61,7 +61,8 @@ while True:
     elif choice == '5':
         view_by_category()
     elif choice == '6':
-        print("👋 Exiting Expense Tracker. Goodbye!")
+        print("Exiting Expense Tracker. Goodbye!")
         break
     else:
         print("Invalid choice! Try again.\n")
+
